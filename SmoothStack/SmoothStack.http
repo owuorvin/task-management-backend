@@ -1,0 +1,6 @@
+@SmoothStack_HostAddress = http://localhost:5265
+
+GET {{SmoothStack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
